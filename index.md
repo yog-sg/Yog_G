@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My Blog
+title: Yog_G
 ---
 
-Welcome to my blog! Newest posts appear below.
+Collection of things that I like or find interesting.

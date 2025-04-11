@@ -1,13 +1,30 @@
-# Sci-Fi Stories | Anime, Books, Shortstories etc
-
 ---
-layout: post
-title: "Sci-Fi Stories"
-date: 2025-04-11
+layout: home
+title: Sci-Fi Stories
 ---
 
-This is my first blog post written in Markdown!
+# 🚀 Sci-Fi Stories  
+_A curated list from anime, books, short stories & more._
 
-- Easy to write
-- Clean to read
-- Auto-converted to HTML by GitHub Pages
+---
+
+## 🌌 Featured List
+
+### 🔹 Annihilation  
+A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don’t apply.
+
+---
+
+### 🔹 Arrival  
+A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.
+
+---
+
+### 🔹 abc  
+> *[Add description here if needed.]*
+
+---
+
+📝 **More coming soon...**  
+Submit your recommendations via PR or issue!
+

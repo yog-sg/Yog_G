@@ -1,8 +1,8 @@
-# File: _posts/2025-04-11-my-first-blog.md
+# Sci-Fi Stories | Anime, Books, Shortstories etc
 
 ---
 layout: post
-title: "My First Blog"
+title: "Sci-Fi Stories"
 date: 2025-04-11
 ---
 

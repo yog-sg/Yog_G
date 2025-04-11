@@ -3,28 +3,24 @@ layout: home
 title: Sci-Fi Stories
 ---
 
-# 🚀 Sci-Fi Stories  
 _A curated list from anime, books, short stories & more._
 
 ---
 
 ## 🌌 Featured List
 
-### 🔹 Annihilation  
-A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don’t apply.
+###  Annihilation  
+Movie
+based on book of same name by Jeff Vandermeer
+-book is part of an ongoing series The southern reach trilogy
 
----
+###  Arrival  
+based on a short scifi story
 
-### 🔹 Arrival  
-A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.
-
----
-
-### 🔹 abc  
-> *[Add description here if needed.]*
+###  Ergo Proxy  
+Anime
 
 ---
 
 📝 **More coming soon...**  
-Submit your recommendations via PR or issue!
 

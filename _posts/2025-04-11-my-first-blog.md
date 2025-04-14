@@ -20,6 +20,10 @@ based on a short scifi story
 ###  Ergo Proxy  
 Anime
 
+###  Ghost in the shell 
+###  Mickey 17  
+###  Ex Machina  
+###  ...  
 ---
 
 📝 **More coming soon...**  
